@@ -1,0 +1,893 @@
+1      COMMONWEALTH OF MASSACHUSETTS  
+ 
+SUFFOLK, SS.               CIVIL SERVICE COMMISSION  
+ 
+              One Ashburton Place:  Room 503  
+              Boston, MA 02108  
+              (617) 727 -2293  
+ 
+ANTHONY GRASSO  and  
+JOHN MOCCIO ,  
+  Appellant s 
+   v. 
+                                                                 D1-16-175 (GRASSO ) 
+                      D1-16-176 (MOCCIO ) 
+                                                                                   
+TOWN OF AGAWAM ,  
+  Respondent                                                                               
+      
+ 
+ 
+Appearance for Appellants :                               John D. Connor, Esq.  
+     Connor & Morneau LLP  
+     273 State Street, Second Floor  
+     Springfield, MA 01103     
+                      
+Appe arance for Respondent:         Russe ll Dupere , Esq.  
+     Dupere Law Offices  
+     94 North Elm Street  
+     Westfield, MA 01085      
+              
+Commissioner:           Christopher C. Bowman  
+ 
+SUMMARY OF DECISION  
+ 
+     The Town’s decision to terminate Officer  Moccio was justified.  Officer Moccio 
+engaged in excessive force by twice striking a prisoner in red (vital) target areas with his 
+baton and by striking the prisoner after the prisoner was no longer assaultive.  Further, he 
+made multiple omissions and mis statements regarding the incident that, taken together, 
+constitute untruthfulness.  Finally, Officer Moccio failed to properly secure his firearm in 
+the booking room, walking pas t a dangerous, un -cuffed prisoner with a loaded firearm.  
+ 
+     The Town’s dec ision to demote Sergeant Grasso to police officer was justified.  
+Sergeant Grasso failed to intervene when excessive force was being used; he failed to 
+ensure that officers had secured their firearms in the booking room; and he failed to 
+provide immediate medical attention for a prisoner with visible injuries, including self -
+inflicted wounds to his head and injuries sustained by the baton strikes  of Moccio .  2 DECISION  
+On October 24, 2016, the Appellants, Anthony Grasso and John Moccio  (Grasso, 
+Moccio or Appe llants), pursuant to the provisions of G.L. c. 31, § 43, filed an appeal with 
+the Civil Service Commission (Commission), contesting the decision of the Respondent, 
+the Town of Agawam (Town) to terminate their employment from the Town’s Police 
+Department (A PD).  The two cases were consolidated as they relate to the same incident.   
+On November 30, 2016, I held a pre -hearing at the Springfield State Building in 
+Springfield, MA.  I held a full hearing at the same location over a period of four (4) days 
+on Janua ry 9, 2017, January 10, 2017, January 31, 2017, and February 14, 2017 .1  On 
+February 2, 2017, after the third day of hearing  before the Commission , the Town 
+rescinded the termination for Grasso and converted his discipline to a demotion from 
+sergeant to po lice officer.  As no written notice was received from either  party, the 
+hearing was declared private.  All witnesses , with the exception of the Appellants,  were 
+sequestered.  Four (4) CDs were made of the hearing and the hearing was transcribed by 
+the part ies.  The transcript is the official record of the hearing.   Both the Appellants and 
+the Town submitted post -hearing briefs on April 14, 2017.2 
+ 
+ 
+ 
+ 
+                                                 
+1 The Standard Adjudicatory rules of Practice and Procedures, 810 CMR §§ 1.00, et seq ., apply to 
+adjudications before the Commission, with G.L. Chapter 31, or any Commission rules, taking precedence.  
+2 The Town’s post -hearing brief was forty -six (46) pages and the Appellants’ post -hearing brief was one -
+hundred thirty -four (134) pages in length.  To the extent that I have not addressed all of the parties’ 
+contentions, they “have not been overlooked.  [I] find no thing in them that requires discussion.” 
+McCormack v. Department of State Police and another , Mass.App.Ct 16 -P-269 (2017)  (1:28) , citing 
+Commonwealth v. Domanski , 332 Mass. 66, 78 (1954).  3 FINDINGS OF FACT :  
+Based upon the documents entered into evidence ( Joint Exhibits 1-54)3, stipulated 
+facts,  the testimony of : 
+Called by the Town:  
+ 
+ APD Lieutenant J.B.;  
+ Alfred Donovan , Investigator;  
+ APD Sergeant M.P;  
+ David O’Laughlin , Use of Force Expert;  
+ APD Chief Eric Gillis ;  
+ Mayor Richard Cohen ;  
+ 
+Called by the Appellants:  
+ 
+ APD Officer Anthony Grasso , Appe llant;  
+ APD Officer  John Moccio , Appellant;  
+ G.O.,  former APD Officer;  
+ R.P., EMT ; 
+ M.N., EMT ; 
+ Charles Key , Use of Force Expert;  
+ 
+and taking administrative notice of all matters filed in the case, pertinent statutes, 
+regulations, policies, stipulations and  reasonable inferences from the credible evidence, a 
+preponderance of the evidence establishes the following:  
+1. Officer Anthony Grasso is 50 years of age and has been employed as a full -time 
+police officer with the APD since December 1, 1997. He was promoted  to the rank of 
+sergeant in May 2008.  (Testimony of Grasso)   He has no prior discipline. (Stipulated 
+Facts)  
+                                                 
+3 Subsequent to the close of the hearing, I re -opened the record fo r the purpose of accepting a settlement 
+agreement regarding a two (2) -day suspension of Mr. Moccio in 201 4.  I have marked it as Exhibit 55 after 
+making appropriate redactions.   4 2. Officer John Moccio is 46 years of age and , until his termination, was employed as a 
+full-time police officer with the APD since December 1, 1997.  (Testimony of 
+Moccio)   He received a two (2) -day suspension in 2014.  (Stipulated Facts)  
+3. On June 19, 2016, Moccio and an Agawam Special Police Officer were  assigned to 
+Six Flags, an amusement park in Agawam, as detail inside the park . (Testimony of 
+Moccio)  
+4. While on detail duty, the two (2) police officers responded to a call related to a 
+disorderly male citizen  (Doe)  at the Tiki Bar, which is just inside the water park .  Doe 
+was upset after being shut off from the further sale of alcohol  at the Tiki Bar. 
+(Testimony of R.P, M.N. and Moccio)  
+5. Moccio subsequently filed an arrest report regarding the incident.  Moccio’s report 
+contained the following information regarding what occurred at Six Flags, which , for 
+the purposes of this decision, I credit in its entirety : 
+“On 6/19/16 at approx. 17:40 hrs [Special Police Officer]  and I were dispatched to the 
+Tiki Bar at the water park at Six Flags for a disorderly gest (sic) refusing to leave.  
+Upon our arrival [Special Police Officer]  and I spoke with Six flags security w ho 
+stated the bartender at the Tiki Bar shut a male party off who had to (sic) much to 
+drink and is now causing a scene.  It was at this time [Special Police Officer]  and I 
+made contact with the male party [Doe]  the male party in question.  I approached 
+[Doe] and advised him that Six Flags was asking him to leave the park due to his 
+level of intoxication.  It was at this time [Doe]  refused to leave and stated I’m staying 
+and having a beer.  I again advised [Doe]  it was time to go and I placed my hand on 
+his right shoulder.  It was at this time [Doe]  turned and spun attempting to strike me 
+in the face with his right elbow.  It was as this time I pushed [Doe]   against the bar 
+and attempted to place him in custody.  [Doe]  began to resist and starting throwing 
+punches at [Special Police Officer]  and I.  [Doe]  was then brought to the ground to 
+gain control over him.  It was at this time [Doe]  began kicking and placed [Special 
+Police Officer]  in a headlock attempting to punch him in the face.  As [Special Police 
+Officer] was struggling with [Doe]  I drew my OC spray and delivered a one second 
+burst to [Doe] ’s face.  [ Doe] continued to kick and punch at [Special Police Officer]  
+and I.  The OC spray had no effect on [Doe] .  After several minutes of wrestling with 
+[Doe]  [Special Police Officer]  and I were able to gain control over him and place him 
+in custody.  Upon placing [Doe]  in custody he was escorted to the back gate of the 5 water park to a wait (sic) cruiser transport.  While waiting for the transport [Doe]  
+began act ing out again kicking at me in an attempt to strike mein (sic) the legs.  [Doe]  
+was advised to stop kicking and stay seated which he refused.  I again advised [Doe]  
+to stop kicking or he was going to be struck with my baton.  It was at this time 
+transport arrived and [Doe]  attempted to again kick at me in the chest.  I delivered 
+two baton strikes to his right leg in an attempt to gain control over him so I could 
+place him in the cruiser.  [Doe]  was placed in the cruiser for transport to Hq.”  
+ 
+(Exhibit 33, Attachment 1)  
+ 
+Booking Room  
+ 
+6. Upon arrival at the police station, Doe was removed from the police cruiser; 
+decontaminated at the eye wash station in the “Sally Port” and th en brought to the 
+booking room where his handcuffs were removed by Agawam Police Offi cer Edward 
+Connor . (Exhibits 30 & 31)  
+7. Grasso was the officer in charge for the APD this night. (Testimony of Grasso)  
+8. Grasso observed that Doe was initially “nice and calm” and  “going along with the 
+program” in the booking room.  (Testimony of Grasso)  
+9. APD Po licy 3.013, Paragraph IV, Section A, states the following:  
+“Detainees who are violent, intoxicated or uncontrollable may be placed directly into 
+a holding cell until such time as they are calm enough to process.  
+  
+Officers shall not remove restraints of th e detainee if the behavior of the detainee  
+ poses an excessive risk of injury to the officers or the detainee.” (Exhibit 22)  
+ 
+10. APD Policy 3.03, Paragraph IV, Section C, Subsection 3 (Handcuffs) further 
+provides:  
+“The transportation handcuffs shall remain o n the detainee until the booking officer 
+instructs that they are to be removed.  
+ 
+Detainees shall generally be handcuffed to the cuffing bar which is specifically 
+designated for that purpose.   
+ 
+Handcuffs may be removed:  
+  6 For the purpose of conducting a bo oking inventory;  
+  
+For the purpose of fingerprinting; or  
+  
+At the discretion of the booking officer.  
+ 
+In making the decision to remove handcuffs from a detainee, the booking officer 
+should consider the conduct of the arrestee, the offense for which the ar rest has been 
+made and the recommendations of the arresting and/or transporting officers. ” 
+(Exhibit 22)  
+11. Grasso’s decision to allow Doe to initially remain in the booking room without 
+handcuffs did not violate the above -referenced APD policies.  The policie s, as 
+written, require the officer to make a judgment call regarding whether the detainee 
+poses an excessive risk of injury to the officers or the detainee.  Based on a review of 
+the booking room video, the testimony of Grasso , the testimony of the Town’s expert 
+witness, and the testimony of APD Police Lieutenant JB, I find that Grasso could 
+have reasonably concluded that Doe, at the time, did not pose such a risk; and that the 
+removal of handcuffs was appropriate.   
+12. On at least two (2) occasions while Doe was in the booking room without handcuffs, 
+Moccio walk ed in close proximity to Doe with his firearm in his holster. (Exhibit 30)  
+13. During the entire time that Doe was in the booking room without handcuffs, Connor 
+also had his firearm in his holster  and, for part of this time, the firearm was loaded . 
+(Exhibit 30)  
+14. Connor eventually disabled his weapon by removing the ammunition clip. (Exhibit 
+30) 
+15. Moccio eventually secured his firearm outside of the booking area and returned to the 
+booking room. (Exhibit 30)  
+16. APD  Policy and Procedure No. 3.03 (Detainee Processing) states in relevant part:  7 “2.  POLICE FIREARMS [72.4.1]  
+ 
+a. The transporting officers shall remove and secure their firearms in the 
+weapons lockers located in the sallyport, or outside of the booking area pr ior 
+to handling detainees.  
+b. All persons, including but not limited to assisting officers, booking officers, 
+detectives, and supervisors shall secure their firearms prior to entering the 
+booking area.  
+c. No firearms are allowed in the booking room or holding f acility during the 
+processing or detention of detainees.”  
+ 
+(Exhibit 22, Page 2)  
+ 
+17. By failing to secure his firearm before entering the booking room, I find that Moccio 
+violated APD Policy and Procedure No. 3.03 . 
+18. APD Rules and Regulations under Section G (Pr ohibited Conduct), #10 
+(Incompetence), define incompetency, in part, as:  
+“the failure to conform to work standards established for the officer’s rank, grade, or 
+positions.” (Exhibit 35)  
+ 
+19. By failing to ensure that Moccio  and Connor  secured their firearm s before entering 
+the booking room, I find that Grasso, who was the officer in charge, violated APD 
+Rules and Regulations under Section G (Prohibit ed Conduct), #10 (Incompetence)  
+20. When Moccio re -entered the booking room, Doe was sitting on a bench wearing only 
+his underwear; and Grasso was standing behind the counter looking at a d esktop 
+computer  screen.  Moccio was standing on the other side (in front of) the counter next 
+to Police Officer Edward Connor (Connor)  and the Special Police Officer was 
+standing behin d Moccio and Connor . (Exhibit 30)  
+21. As referenced above, Grasso observed that Doe was initially “nice and calm” and  
+“going along with the program” while in the booking room.  (Testimony of Grasso)  8 22. At the 6:11:28.725 mark in the booking room video, Doe appears  to say something 
+that gets the attention of all four (4) police officers present as they all turn their head s 
+to look at Doe. Whatever Doe said at this point did not prompt any action (i.e. – his 
+removal from the booking area) at that time. (Exhibit 30)  
+23. Approximately sixteen (16) seconds later, at the 6:11:44.728 mark in the booking 
+room video, it appears that Moccio and Doe are having a verbal exchange.  That 
+exchange is brief and Moccio then looks down at his cell phone. (Exhibit 30)  
+24. Approximately seven (7) seconds later, at the 6:11:51.030 mark in the booking room 
+video, Grasso, who was previously looking at the desktop monitor behind the counter, 
+looks away from the desktop monitor, turns his body, looks directly at Doe and starts 
+speaking to him.  Alth ough there is no audio, it is clear that Grasso, who has both 
+hands slightly raised in front of him, is responding to remarks being made by Doe. 
+(Exhibit 30)  
+25. Immediately thereafter, at 6:11.56.330, Grasso begins walking around the counter and 
+toward Doe, w ho was sitting on the bench in his underwear. (Exhibit 30)  
+26. Connor, who was standing on the other side of the counter, takes a couple of steps 
+toward Doe and appears to observe the interaction between Grasso and Doe.  At this 
+point, Grasso was standing dire ctly over Doe, who was seated on the bench. Moccio 
+and the Special Police Officer remain standing in the same location they were in prior 
+to Grasso coming behind the counter to speak to Doe. (Exhibit 30)  
+27. At 6:12:02.145, Grasso, with one hand raised in fron t of him, was talking to Doe, 
+with Connor standing nearby.  (Exhibit 30)  9 28. At 6:12:05.675, Doe, while sitting on the bench, raise d his right hand and appear ed to 
+point at the chest of Grasso, who is standing over him.  There was no physical contact 
+at this m oment; and Doe’s finger never touche d Grasso’s chest and/or badge. (Exhibit 
+30) 
+29. Grasso subsequently filed a report  describing the above -referenced sequence of 
+events as follows:  
+“ …. [Doe] was brought into the booking room for processing upon entering the 
+booking room it was apparent [Doe] was under the influence of alcohol, his speech 
+was slurred, eyes glossy and blood shot.  As I was preparing to begin the process 
+[Doe] started to become belligerent towards Officer Moccio.  I attempted to intervene 
+by com ing around the booking … desk to explain to [Doe] I needed him to cooperate.  
+However, he immediately started with his belligerent behavior toward me and I knew 
+any reasoning with [Doe] in his intoxicated condition was not going to work.  I 
+advised Connor we would be placing [Doe] in the cell until he sober (sic) up and (sic) 
+more cooperative.  It was apparent to me based on my experience from previous 
+bookings [Doe] was not going to go with the program and I wanted to prevent us 
+from fighting any further w ith him .”  (Exhibit 33, Attachment 1)  
+ 
+30. I credit th e above -referenced  portion of Grasso’s report and find that  these written 
+statements were truthful .  
+31. When interviewed several weeks later by an investigator, on July 29, 2016, Grasso 
+made the following stat ement which I also credit in its entirety:  
+“ … The guy was calm, but, uh, you could … but as soon as when Officer Moccio 
+came in, he looked at Officer Moccio and then things started to turn wrong.  He just 
+… his demeanor changed right there.”  
+(Exhibit 33,  Page 15)  
+ 
+32. Later during that same interview, the following exchange took place between Grasso 
+and the Investigator:   
+Grasso: “He turned on me, he said something and he started poking at my chest .  I 
+think you could see him looking at my badge.  I said, ‘t hat’s it.  Enough guys.’  We 
+immediately said we’re pu -, bringing, putting him right in the cell.”  (emphasis  added ) 
+ 10 Investigator:  Well, let, let’s clarify.  And I, I’m not trying to, I, I’m not … he, he 
+never touches you, right?  
+ 
+Grasso:  I don’t know, I  don’t know.  
+ 
+Investigator:  Okay.  
+ 
+Grasso:  … if he actually touched me.  He just INAUDIBLE.  
+  
+Investigator:  It doesn’t appear that he touches you.  
+ 
+Grasso:  He just pointed  at my badge.”  (emphasis  added ) 
+ 
+(Exhibit 33, Attachment 15)  
+ 
+33. Although Grasso ini tially made a misstatement during this interview when he stated 
+“he started poking  at my chest”, he did correct  his statement and clarified that Doe 
+“just pointed  at my badge.” (Exhibit 33, Attachment 15)  Taken together, I do not find 
+these statements  by Grasso  to be untruthful regarding this particular interaction with 
+Doe. 
+Removal of Doe from Booking Room and Escort to Cell  
+34. Grasso decided  to remove Doe  from the b ooking room . (Testimony of Grasso)  
+Grasso grabbed Doe from one side  and Connor grab bed him f rom the other side and  
+they escort ed Doe out of the booking room, down the hallway, and to the cell block.  
+(Exhibit 30)  
+35. During the escort, Grasso switch ed from a regular escort to a wristlock. They went 
+from a guided position or regular escort position, by  just grabbing him by the straight 
+arm, to a wrist lock because Doe was tightening up and Officer Connor was starting 
+to lose hold of him. (Testimony of Grasso)  11 36. Based on a review of all relevant testimony, including Grasso, Moccio, O’L aughlin 
+(the Town’s e xpert witness), Donovan ( the investigator hired by the Town ), Lt. J.B., 
+as well as a review of all relevant APD policies, I find that the manner in which Doe 
+was escorted to the cell did not violate any APD policies.  While, in hindsight, it 
+appears that  it may have bee n advisable for Doe to be handcuffed during the hallway 
+escort, the decision made here by Grasso does not constitute incompetence.  
+Entering Bullpen / Cell  
+37. As they entered the bullpen (between the hallway and the cell) from the hallway, 
+Grasso  felt Doe push back into him with his shoulder  and Grasso told Doe: “Don’t do 
+it.” (Testimony of Grasso)4 
+38. Doe crosse d the threshold of the bullpen door at 6:12:20.254 .  (Exhibit 29) Doe 
+crosse d the threshold of the actual cell at 6:12:23.626. (Exhibit 29)  
+39. Grasso concluded at the time that he could not just push D oe into the cell and close 
+the door because:  a)  Grasso did not have great control of him and was off balance ; 
+b) if he wanted to push Doe in, he would not have been able to get a good enough 
+shove ; and c) Grasso was worried that if he just let go of D oe, he was going to get 
+punched in the face by Doe. (Testimony of Grasso)  
+40. Based on a review of the video, and having credited the testimony of Grasso that Doe 
+was “pushing back” in the bullpen area, I find that the decision by Grasso to enter the 
+cell with Doe, as opposed to letting him go or shoving him in, and then leaving, did 
+                                                 
+4 The Town argues that the recording played at the hearing before the Commiss ion contradicts this. 
+Specifically, the Town argues that this portion of the recording also captures audio  and that Grasso cannot 
+be heard saying “Don’t do it.”  I reviewed this portion of the recording multiple times after the hearing.  To 
+me, it appears that the audio is only detectable at the point that Doe crosses the threshold of the cell.  I have 
+credited the testimony of Grasso that he said “don’t do it” while in the bullpen area directly outside of the 
+cell.  12 not violate any APD Policies, including Policy and Procedure No. 1.01 regarding Use 
+of Force. Although the Town’s investigato r, expert witness and Lt. J.B. offered 
+persuasive testimony that Grasso should have at least attempted to remove himself 
+and the other officers from the cell without escorting Doe to the bench, there is no 
+policy that prohibits an officer from entering the  cell with the inmate under the 
+circumstances that unfolded here and I find that Grasso, in this circumstance, was 
+permitted to make the judgment call to enter the cell with Doe.  
+Policies & Policies and Rules and Regulations Regarding Use of Force / Use o f Baton  
+41. What occurred next, inside the cell, is central to whether the Town had just cause to 
+terminate Moccio and demote Grasso.  While inside the cell, Moccio and Grasso are 
+alleged to have violated numerous APD Policies & Procedures and Rules and 
+Regula tions, including those policies regarding Use of Force  referenced below .   
+42. Sections I and II of APD Policy and Procedure No 1.01 Use of Force State :   
+ 
+“I.  GENERAL CONSIDERATIONS AND GUIDELINES  
+ 
+Police officers are continuously confronted with situations requiring or resulting  
+in the use of force.  The degree of force used is dependent upon the facts  
+surrounding the situation the officer’s (sic) face.  Only a reasonable and necessary  
+amount of force may be used.  The objective of the use of force is to m aintain  
+and/or reestablish control over a situation.  
+ 
+ II.  POLICY  
+ 
+  It is the policy of the department that:  
+ 
+1.  Officers use only the force that is reasonably necessary to accomplish 
+lawful objectives such as to make a lawful arrest, to place a person i nto 
+protective custody, to effectively bring an incident under control, or to 
+protect the lives or safety of the officer and others.  
+ 
+2. When exigent and unforeseen circumstances cause officers to deviate from 
+the provisions of this rule, officers are still e xpected to act with 
+intelligence, sound judgment and in full conformity with both state and 13 federal laws and constitutional provisions.  Any such deviations from the 
+provisions of this rule shall be examined on a case by case basis.  
+ 
+(Exhibit 20)  
+ 
+43. Section IV (Procedures) of the APD Use of Force Policies and Procedures states:  
+ 14 
+ 
+(Exhibit 20)  
+44. APD Policy and Procedure No. 4.06 (Authorized Weapons) states in relevant part:  
+ 15 
+ 
+Inside the Cell  
+Entering the Cell  
+45. As referenced above, Doe crosses the threshold of  the actual cell at or around  
+6:12:23.626 , being forced in by Grasso and Connor. (Exhibit 29)  
+46. For the next approximately three (3) seconds, until 6:12:26.423, the only persons in 
+the cell are Doe, Grasso and Connor.  During this three (3) second span, Mocc io was 
+just outside the cell door, looking into the cell. (Exhibit 29)  
+47. During this three -second time period, Doe pull ed away his right arm from the two 
+officers. (Exhibit 29)  
+48. In his arrest report, Grasso described the above -referenced interaction as follow s:  
+“As we went into the cell he quickly turned against me and threw a punch at me.” 
+(Exhibit 33, Attachment 1)  
+49. On July 29th, Grasso, when speaking to the Town’s investigator, stated that the 
+alleged punch by Doe occurred after  Doe was place d on the bench  in the cell . The 
+exact exchange between Grasso and investigator  was as follows:  16 “Investigator:   Okay, Okay, You bring him in the cell.  
+Grasso:    Yep.  
+Investigator:   He stops struggling.  
+Grasso:    Yup, as we’re getting him into …  
+Investigator:   You and Of ficer …  
+Grasso:    … the cell.  
+Investigator:  Connor take s control or tried to take control.  You, you get him on 
+the bench and he’s struggling the whole time, right?  
+ 
+Grasso:  That’s … no, I don’t think that .. a s we ..’cause as, as I was trying 
+to pu -, put him onto the bench.  
+ 
+Investigator:   To the bench.  
+ 
+Grasso:    Okay?  
+ 
+Investigator:   You move away.  
+Grasso:  I said, I said, ‘Don’t do it.”  And I put him on the bench.  As I went 
+to let go, that ’s when he, he tried to throw a roundhouse at me .  He, 
+he cam e, he come over with a punch.”  (emphasis  added ) 
+ 
+50. During his testimony before the Commission, Grasso testified that Doe threw  or 
+attempted to throw a  punch at him during the three -second time period referenced 
+above and after Doe was placed on the bench. (Tes timony of Grasso)  
+51. Based on a review of the video, the testimony of the Town’s e xpert witness, and the 
+contradictory accounts by Grasso, I do not credit Grasso’s testimony that he 
+perceived, at the time, that Doe was attempting to throw a roundhouse punch a t him 
+when they first entered the cell.   
+52. Moccio,  during cross examination before the Commission, acknowledged that he 
+never referenced this alleged punch in his written report and acknowledged that the 17 first time he actually became aware of the alleged pu nch was when he met with his 
+counsel  and reviewed the video again  in preparation for the local appointing authority 
+hearing.  
+For this reason, I do not credit Moccio ’s testimony (on direct) that, at the time, he 
+was “positive” that he saw the alleged punch and that, at the time, he considered that 
+punch  as part of his perception of the level of threat posed by Doe.  
+53. At the 6:12:27.821 mark in the cell video, Grasso and Connor have forced Doe onto 
+the cell bench.  Doe’s back is on the bench and the back of Do e’s head is against the 
+cell wall. At this point, Moccio has entered the cell and is standing almost directly 
+behind Grasso and Connor. (Exhibit 29)  
+Physical Altercation  on the Cell Bench :  Part A  
+54. For the next approximately sixty (60) seconds, until the 6: 13:27.245 mark in the cell 
+video, Grasso and Connor are in a physical altercation with Doe on the cell bench. 
+(Cell Altercation Part A)  During this same sixty (60) -second time period, it is 
+undisputed that Moccio strikes Doe multiple times with his baton.  (Exhibit 29)  
+55. The Town initially concluded that Grasso and Connor , in addition to Moccio, 
+engaged in misconduct by using excessive force during this time period, a significant 
+reason for their termination.  On the second day of hearing before the Commissio n,  
+the Town’ s expert on use of force testified that, although Moccio  engaged in 
+excessive force, Grasso  and Connor  did not.  The Town , prior to the third day of 
+hearing, rescinded Connor’s termination outright and modified Grasso’s discipline to 
+a demotio n, for reasons other than the use of excessive force.  
+56. Throughout Cell Altercation Part A : 18 A. There were four (4) uniformed police officers in the cell, in addition to Doe.  
+B. Doe was 5”7” and weigh ed 155-165 pounds.   
+C. Grasso perceived Doe to be “real strong.”  
+D. Doe was unarmed and wearing only his underwear.  
+E. There were no bystanders.  
+(Exhibit 29 and Exhibit 33, Attachment 1)  
+57. Moccio observ ed and/or perceived the following  during Cell Altercation Part A:  
+A. Doe having Grasso in a headlock. (6:12:31.217)  
+B. Doe actively m oving and fighting with  Grasso and Connor. (6:12:39:506)  
+C. Doe engaged in an active fight with Grasso.  
+D. Grasso and Connor struggling with Doe. (6:12:41.803)  
+E. Connor not in a good position; Grasso and Connor struggling with Doe’ s 
+hands to gain control of Doe.  (6:12:57.983)  
+F. Grasso and Connor still struggling with Doe . 
+(Testimony of Moccio  and Exhibit 29 ) 
+58. Also during this altercation, Doe can be seen wrapping his legs around the legs of 
+Grasso. (Exhibit 29)  
+59. During Cell Altercation Part A , Moccio struck Doe thirtee n (13) times with his baton . 
+60. APD Officers are guided on the issue of what area of a subject’s body to strike with 
+the baton by a baton strike chart knows as the “Monadnock Baton Chart”.  This chart 
+depicts the human anatomy in three colors: 1)  “Green Targ et Areas” which are areas 
+of the body that if struck would result in a minimal amount of trauma to the subject; 
+2) “Yellow Target Areas” which are areas of the body that if struck may result in a 19 moderate to serious level of resulting trauma; and 3) “Red T arget Areas” which are 
+areas of the body that if struck would result in the highest level of resultant trauma. 
+(Exhibit 33, Attachment 6)  
+61. APD Officers are trained to strike the green target area if possible.  You can strike the 
+yellow target area if a gree n target area is not available.  (Testimony of Grasso and 
+Moccio).  The only time you strike the red target area is if you’ve got serious bodily 
+harm – lethal. (Testimony of Grasso)  
+62. The first four (4) baton strikes by Moccio hit the backside of Doe’s body.   The cell 
+video shows that these first four (4) strikes occurred at the following times:    
+1. STRIKE 1:  (6:12:35.212)  
+2. STRIKE 2: (6:12:36.210)  
+3. STRIKE 3: (6:12:37.409)  
+4. STRIKE 4:  (6:12:38.308)  
+(Exhibit 29)  
+63. The Town’s investigator and the Town’s expert witnes s both concluded that all four 
+(4) of these above strikes were to Doe’s kidney area, which is a red area on the 
+Monadnock Baton Chart. (Testimony of Donovan  and O’ Laughlin  and Exhibit 33, 
+Tabs 6 & 10)  
+64. The arrest report submitted by Moccio , which was comple ted before he viewed the 
+video, states only that he struck Doe in the “thigh and shin area”.  (Exhibit 33, Tab 1)  
+65. The use of force report submitted by Moccio asks :  “If Baton used, area struck” 
+followed by three boxes next to the words:  Green , Yellow and Red.  Moccio only 
+checked the box next to “Green”. (Exhibit 33, Tab 11) 20 66. Asked whether he had seen the video prior to completing the use of force report, 
+Moccio testified that:  
+“ … that one was completed when I got back from Six Flags.  I hadn’t  
+even looke d at the video at that point yet.  I walked in – into the report room,  
+grabbed the use of force report, basically went over – checked off what  
+needed to be checked off, filled out all his information and turned it in.   
+And at that point, Sgt. Grasso said , ‘Hey, check – look at the video.   
+There’s a video here  
+ …  
+So I looked at it quick.  My son is sitting in the truck.  I’m covered with pepper 
+spray.  I want to go home and take a shower.  I’m disgusting.  So I – I kind of – I 
+want to say I watched maybe 15 seconds  
+of the video .  I didn’t watch a lot of the video.  
+…. 
+I looked at the video and I saw what a combative individual he was and  
+what was going on.  I mean that’s all I looked at.  I just looked at his actions  
+to make sure that I was justified in d oing what I did – and I was.”  
+ 
+67. When Moccio was interviewed by the Town’s investigator, he made  the following 
+statements prior to reviewing the video:  
+Moccio:     I believe I delivered strikes to his upper th -, le-, the outside  
+    of his leg and his shins trying to pa -, create pain compliance  
+    for him to stop resisting.  You  know, I mean, he was told to  
+    stop several times and he just refused to comply.  
+ 
+Donovan :  Okay.  Do you strike him with the butt end of the baton?  
+ 
+Moccio:   Yup.  
+ 
+Donovan:   Okay 
+ 
+Moccio:   I do. 
+ 
+Donovan:   Where?  
+ 
+Moccio:   I aim for his inner thigh.  The inner thigh’s got a bunch of nerves  
+    in that, in that area.  And that’s …  
+ 
+Donovan:   Right.  
+ 
+Moccio:   … where I go to strike him at.  21  
+Donovan:   Do you strike him in the back w ith that?  
+ 
+Moccio:   Never.  
+ 
+Donovan:   You never struck him in the back?  
+ 
+Moccio:   Never struck him in the back with the butt end of my baton.  
+ 
+Donovan:   It appears that you did.  Uh, you can you …  
+ 
+Moccio:   I never did.  
+ 
+Donovan:   Have you seen the vi -, okay.  You never did?  
+ 
+Moccio:   Never did.  
+ 
+Donovan:   Okay.  
+ 
+Moccio:   I don’t recall doing it, no.  
+ 
+(Exhibit 33, Tab 13)  
+    
+68. Later in the same interview, there is the following exchange between Donovan and 
+Moccio:  
+Donovan:  Okay, He’s done?  All right.  All r ight.  Um, I’m gonna ask you to  
+   watch the video.  I’m gonna let you and … you’re all not gonna  
+   fit in to see the video.  So, uh, him and his INAUDIBLE attorney.  
+   Uh, I just want you to watch it and we’ll go over a couple questions,  
+   Okay?  
+Mocc io: Mm hmm.  
+………  
+Donovan:  So you … that refreshed your memory as we spoke for …  
+Moccio:  Yeah.  
+Donovan:  … a second?  Okay, And you can see that you do in fact use the  
+   butt end of, of your …  
+Moccio:  Yes 22 Donovan:  … expandable baton to strike him.  And you said it was in ..  
+   wasn't in the spine area.  It was in…  
+  Moccio:  It wasn’t in ..  
+  Donovan:  … the kidney area…  
+  Moccio:  …spine.  
+  Donovan:  …or whatever?  
+  Moccio:  It was more of a yeah, lower back kidney area, yes . (emphasis  added ) 
+  (Exhibit 33, Tab  13) 
+69. During his testimony before the Commission, Moccio testified that he never struck 
+Doe in the kidney area and described these initial strikes as strikes “just above the 
+hip” or strikes to Doe’s “lower back.” (Testimony of Moccio)  
+70. Asked to explain this discrepancy, Moccio offered the following testimony before the 
+Commission:  
+Q Okay, and specifically on page 26 at some point, did you – did you agree with Mr.  
+ Donovan with respect to a strike to the kidney?  
+ 
+A I believe I – I did.  I don’t – I don’t recal l. 
+ 
+Q Okay.  It says – I’m sorry – page 26, about half way down, it says ‘Moccio:   it  
+ was more of a yeah, low – low back, kidney area, yes.’  
+ 
+A Yeah, low back.  
+ 
+Q Okay.  At the time that you gave that statement, had you seen the video?  Were  
+ you viewing  the video with him?  
+ 
+A I don’t believe I viewed the video at that point, no.  
+ 
+Q Okay.  And sitting here today, do you agree with your statement as you made it  
+ here?  
+ 
+A No 
+ 23 Q Why not?  
+ 
+A Because it’s not in the kidney area.  The kidney area is more center  – center – 
+ more centrally located.  I hit him on the side in the lower back.  
+ 
+Q Okay, Were you intending – was it your intention to deceive anybody by  
+ giving this statement?  
+ 
+A No 
+ 
+Q Was it your intent to deceive anyone by giving any subsequent stateme nt  
+ in this case?  
+ 
+A No 
+ 
+(Testimony of Moccio)  
+ 
+71. During cross examination, Mocc io acknowledged that, during the interview with 
+Donovan, he was first asked questions by Donovan, then given an opportunity to 
+watch the video and then asked follow -up questions , at which time he acknowledged 
+striking Doe in the kidney area.  (Testimony of Moccio)  
+72. After reviewing all of the relevant evidence , including the testimony of all relevant 
+witnesses, the Monadnock Chart and the video, I find that, of the first four (4) in itial 
+baton strikes, at least two (2) of them (Baton Strikes 1 & 4) hit the kidney area on 
+Doe’s body, a red target area on the Monadnock Chart.  Those two strikes are clearly 
+visible on the cell video.  
+73.  The next six (6) strikes (Strikes 5 through 10) are to green areas as follows:  
+5. Moccio strikes Doe in the shin with his baton. (6:12:42.003)  
+6. Moccio strikes Doe in the thigh with his baton. (6:12:43.201)  
+7. Moccio strikes Doe in the left shin with his baton. (6:12:44.300)  
+8. Moccio strikes Doe in the left shin with  his baton. (6:12:47.796)  
+9. Moccio strikes Doe in the left shin with his baton. (6:12:50.392)  24 10. Moccio strikes Doe in the left shin with his baton. (6:12:54.687)  
+(Exhibit 29)  
+74. The next three (3) strikes by Moccio (Strikes 11 through 13) hit the front side of 
+Doe’s body. (Exhibit 29)  
+75. The Town’s expert concluded that two of these strikes hit the “groin ”.  The Town’s 
+investigator concluded that there were three (3) strikes and that all three (3) of them 
+hit the “groin area ”. (Exhibit 33, Main Report & Tab 10)  
+76. The “groin ” is considered a yellow area on the Monadnock Chart. (Exhibit 33, Tab 6)  
+77.  Moccio acknowledges hitting Doe’s “groin area” but defines that as areas other than 
+Doe’s genitalia, including, but not limited to, Doe’s upper leg near his genitalia. 
+(Testimo ny of Moccio)  
+78. After reviewing all of the relevant evidence, including the testimony of all relevant 
+witnesses, the Monadnock Chart and the video, I find that the video is not sufficiently 
+clear as to whether Moccio struck Doe in that area labeled as the “g roin” on the 
+Monadnock chart (yellow area) or whether he struck Doe in the area directly 
+surrounding the groin (green area).  
+79. As referenced above, the APD’s Use of Force Policies state that an “officer is 
+justified in taking appropriate steps to immediately  cease the assaultive action and to 
+gain compliance and maintain control of the subject.  Force could include weapon 
+(baton) strikes …”  (Exhibit 20)  
+80. After reviewing the cell video multiple times and considering and weighing the 
+testimony of Moccio, Grasso , Donovan and both parties’ expert  witnesses on use of 
+force, as well as reviewing all relevant APD Policies, I  find that, Moccio, at the time, 25 as a reasonable officer, could have reasonably perceived that Doe was assaultive 
+during this  initial, sixty (60) -second time period  on the bench.  (Cell Altercation Part 
+A) 
+81. As also referenced above, the APD’s policies on authorized weapons states that a 
+police baton may used:  “as a defensive weapon to deliver disabling blows to non-
+vital areas of the body  as a means  to halt or deter a subject when all lesser means of 
+applying non -deadly force have failed or would obviously b e futile .”  (emphasis  
+added )  (Exhibit 25)  
+82. Again, after reviewing the cell video multiple times and considering and weighing the 
+testimony of Moc cio, Grass o, Donovan and the two (2) expert witnesses on the use of 
+force, as well as reviewing the relevant APD Polic ies, I find that , although  Moccio 
+could have reasonably concluded that other non -lethal means of deadly force had 
+failed, or were proving to be futile  during Cell Altercation Part A , he engaged in 
+misconduct by striking vital (red) areas of Doe’s body  (kidney area).  
+Physical Altercation on the cell bench:  Part B  
+83. At 6:13:29.542 in the cell video, a bloodied -Doe is laying on his back on the c ell 
+bench and there is no physical contact between Doe and Grasso, Connor or Moccio.  
+Grasso can be seen exiting the cell and Connor is heading toward the cell exit.  
+Moccio is standing behind Connor looking down at Doe, with his (Moccio’s) baton 
+still in his hand.  After reviewing the video and considering and weighing the 
+testimony of Moccio and the two (2) expert witnesses, and based on commonsense, I 
+find that Doe, as of this point, was not assaultive.   26 84. At 6:13:30.042, Doe , while still on the cell benc h, begins to turn his body and lean on 
+his right shoulder.  At this point, Moccio can be heard telling Doe to “stay down on 
+the bunk” while he (Moccio) places his baton closer to Doe. (Exhibit 29)  
+85. At 6:13:32.039, Doe is now sitting upright on the cell benc h, with both feet on the 
+cell floor, looking up at Moccio.   At this time, it appears that Grasso tells Doe so stay 
+down on the bunk  and Moccio says the words  “You stay ….”. (Exhibit 29)  
+86. At 6:13.32.938, Doe proceeds to stand up. (Exhibit 29)  
+87. Immediately t hereafter, the following events transpire:  
+A. Moccio holds his baton behind his (Moccio’s) head.  
+B. Moccio steps toward Doe, moving the baton toward Doe.  
+C. Moccio, with his baton in hand, shoves Doe backward onto the cell bench.   
+D. Doe’s head appears to miss the ce ll wall by less than an inch.  
+E. As Doe is falling backward, Moccio says:  “get down on the bunk”.  
+F. Doe stands back up with what appears to be a clenched right fist.  
+G. Moccio strikes Doe on his right thigh with the baton  and says:  “get down.”   
+H. Moccio strikes Do e on his right thigh with the baton and says “get down now.”   
+I. Moccio shoves Doe back down on the bench.  
+J. Moccio  strikes Does on his upper leg and says “cuff him up.”  
+(Exhibit 29)  
+88. After reviewing the cell video multiple times and considering and weighing the  
+testimony of Moccio, Grasso, Donovan and the two (2) expert witnesses on use of 
+force, as well as reviewing all relevant APD Policies , I find that Moccio, at the time, 
+could not have reasonably concluded that Doe was being assaultive when he 27 (Moccio) shov ed Doe against the cell wall, and then subsequently struck him with a 
+baton three (3) times.  I find that Moccio, by shoving Doe against the cell wall, and 
+administering these three (3) additional baton strikes, engaged in excessive force and 
+violated the APD’s Use of Force Policies.  
+89. After Moccio struck Doe these three (3) additional times, Grasso and Connor grabbed 
+Doe, placed handcuffs on his wrists; shackled his ankles and left him face down on 
+the cell bench.  (Exhibit 2 9) 
+90. At or around 6:56.09, Grasso  and Connor  re-enter the cell after Doe had been banging 
+his head on the window of the cell door.   Grasso observed blood trickling down Doe’s 
+head  at this point . (Exhibit 2 9 and Testimony of Grasso)  
+91. Approximately two (2) hours later, Doe is removed from the cell to be transported to 
+the hospital. (Exhibit 29)  
+92. APD Policy 1.01, Section G (Medical Attention) provides the following:  
+“After any level of force is used (including weaponless tactics) the officer shall  
+immediately evaluate the need for medical attent ion or treatment for that person upon 
+whom the force was used and arrange for such treatment when:  
+A.  The suspect is in obvious need of medical attention.  
+B. The suspect has serious visible injury; or  
+C. The suspect complains of injury or discomfort and r equires medical attention.  
+(Exhibit 20)  
+93. APD Policy 3.04 (Detaining Prisoners), Section B (Medical Care) requires the 
+following:  “An ambulance shall be called when any detainee requests and/or is 
+deemed in need of medical attention.”  (Exhibit 22)  28 94. After re viewing all relevant testimony, including the testimony of Grasso and 
+reviewing all relevant APD Policies as well as the cell video, I find that Grasso 
+violated the above -referenced APD Polic ies regarding medical attention when:  a)  he 
+failed to seek imme diate medical attention for Doe after Doe was struck several times 
+with a metal baton and shoved  onto the bench, inches from the cement wall , by 
+Moccio; and b) he failed to seek immediate medical attention for Doe after observing 
+that blood was trickling d own Doe’s head as a result of Doe banging his own head 
+against the glass in the cell  door.  
+95. Later that night, Grasso left a voice mail message to Chief Gillis stating:  
+ 
+“Chief, it’s Anthony.  Just to let you know, the rest of the night that [Special Police  
+Officer] got injured hurt his back.. Had to send him to the hospital.  Just wanted to 
+give you a heads up.  Ok so I am going to have some paperwork for you to fill out.  A 
+guy fought us in the cell.  A pretty bad drunk … arrested at Six Flags.  Got a litt le 
+crazy first half of the night.  Just wanted to give you a heads up on that.  No reason to 
+call me back because it’s almost midnight.  Just wanted to let you know what is going 
+on.”  
+(Exhibit 47)  
+96. In addition to the usual arrest report, Moccio completed a  use of force report. (Exhibit 
+33, Attachment 11)  
+97. The use of force report asks:  “If Baton used, area struck” followed by three boxes 
+next to the words:  Green Yellow and Red.  Moccio only checked the box next to 
+“Green”. (Exhibit 33, Attachment 11)  
+98. The ne xt question on the use of force report asks the officer to state the “Total # of 
+Strikes”.  Moccio hand -wrote:  “7 -10”. (Exhibit 33, Attachment 11)  
+99. In his arrest report, Moccio wrote the following regarding what occurred inside the 
+cell while he was presen t: 29 “While placing [Doe] in the cell he became combative and grabbed Sgt. A. Grasso 
+had (sic) place (sic) him in a head lock attempting to punch him in the face.  It was at 
+this time [Doe] was advised to stop resisting or he was going to be struck with my 
+baton.  [Doe] refused to release Sgt. A. Grasso and several baton strikes were 
+delivered to [Doe]’s thigh and shin area.  After several minutes wrestling with [Doe] 
+we gained control over him and handcuffs and leg irons were placed on him.”  
+ 
+(Exhibit 33, At tachment 1)  
+ 
+100. Moccio went on to write the following in his arrest report regarding the events 
+that occurred approximately one (1) hour later on the night in question:  
+“Please note after all Officer’s (sic) were out of the cell [Doe] continued to be 
+aggressi ve and combative within the cell.  [Doe] had slipped his handcuffs to the 
+front and was punching, banging his head and kicking the cell door.  Due to his 
+actions he had received blood abrasions and contusions to his face, head, shin, and 
+legs.”  
+ 
+(Exhibit 33, Attachment 1)  
+101. Grasso also filed an arrest report.  He wrote the following regarding what 
+transpired immediately after Doe was escorted into the cell:  
+“As we went into the cell he quickly turned against me and threw a punch at me.  I 
+quickly jumped back  at him as Officer Connor and I tackled him onto the bench to 
+control him however, [Doe] was now actively fighting against us and at one point had 
+me in a head lock.  As we were attempting to gain control of him he was now making 
+noises as if he was going to spit at us and I could actually see him with full mouth of 
+spit.  We immediately grabbed his head and had to push and control his head away 
+from us toward the cell room wall.  During the incident [Doe] was also struck several 
+times by Officer Moccio wit h his baton to the lower leg and upper thigh area in order 
+to control him and allow us to leave the cell.  After several blows it appeared [Doe] 
+had stopped fighting we (sic) had instructed him to stay on the bench as we began 
+walking towards the door.  Of ficer Moccio was trying to keep [Doe] at a distance 
+with his baton on the bench.  However, he had eventually stood back up and started 
+making his way towards officer Moccio.  Officer Moccio pushed him back onto the 
+bench to create distance and he immediate ly got back up and appeared as if he was 
+getting ready to go after Officer Moccio.  Officer Moccio immediately struck him 
+with baton to keep him at a distance.  We then forced him back onto the bench once 
+again eventually handcuffing and shackling his legs .”  
+ 
+(Exhibit 33, Attachment 1)  
+ 30 102. Grasso went on to write the following in his arrest report regarding the events that 
+occurred later on the night in question:  
+“I was also advised that [Doe] was banging his head on the wall and door.  [Doe] was 
+now bleeding  from his head and left lower leg.  He also had red marks from the baton 
+strikes to his legs and contusions to his head and right cheek.  During the course of 
+the evening I along with prisoner watch officer informed him he was not going to be 
+taken out of the cell until he calmed down, sober (sic) up and was going to cooperate 
+with the booking process.  At approximately 2140 hours [Sergeant] and [Officer] 
+were able to complete the booking process and all of his injuries were photographed.  
+At 2205 hours I r equested AFD paramedics and [Doe] was transported to BSMC to 
+be evaluated for his injuries at the emergency room.  [Doe] was accompanied by 
+[Officer] and was released at 0114 hours.  He was then secured in cell 2.”  
+ 
+(Exhibit 33, Attachment 1)  
+103. On July 14, 2 016, Grasso and Moccio were notified by separate letters from 
+Agawam Police Chief Eric P. Gillis that the Agawam Police Department had initiated 
+an internal investigation into allegations concerning the performance of their duties 
+and their fitness to perf orm their duties as police officers. The Appellants were each 
+placed on paid administrative leave  as of that date . (Exhibits 1 -3) 
+104. On or about July 25, 2016, the officers were notified that the investigation 
+concerned their conduct and behavior in regards t o the arrest, care, custody, handling 
+and treatment of Doe which took place on June 19, 2016. That notice further 
+indicated that “a preliminary review of the department’s video recording of the 
+incident indicates police department Policy may have been viol ated.” The notices also 
+advised the Appellants that the investigation would be conducted by Alfred P. 
+Donovan from A.P.D. Management Inc. at the direction of Chief Gillis. Each officer 
+was directed to submit to an interview with Mr. Donovan on or about Jul y 29, 2016 
+which they did. ( Exhibits 4 -6)  31 105. By letter dated September 21, 2016 to Mayor Richard Cohen, Chief Gillis 
+recommended that Sgt. Grasso’s employment be terminated immediately. Chief 
+Gillis’ s letter alleged eleven (11) violations of Agawam Departmen t Policy and 
+Procedures by Grasso as the basis for his recommendation. ( Exhibit 11).   
+106. By letter dated September 21, 2016 to Mayor Richard Cohen, Chief Gillis also 
+recommended that Officer Moccio’s employment be terminated immediately. Chief 
+Gillis’ s letter  alleged eleven (11) violations of Agawam Department Policy and 
+Procedures by Moccio as the basis for his recommendation. ( Exhibit 12 ) 
+107. On October 5 , 2016 and October 17, 2016, a hearing was held by the Mayor 
+concerning the allegations raised against the Ap pellants. (Stipulated Facts)   
+108. On October 19, 2016 the Appellants received notices of termination from the 
+appointing authority, Mayor Cohen, citing Chief Gillis’ s recommendation of 
+September 21, 2016, the internal affairs report of Mr. Donovan, the video a nd the 
+information presented at hearing as the basis for his decision to terminate the 
+Appellants. ( Exhibits 17 -18)  
+Applicable Civil Service Law  
+ G.L. c. 31, § 43 provides:  
+ 
+ “If the commission by a preponderance of the evidence determines that there was 
+just cause for an action taken against such person it shall affirm the action of the 
+appointing  authority, otherwise it shall reverse such action and the person concerned 
+shall be  returned to his position without loss of compensation or other rights; 
+provided, however, if the employee by a preponderance of evidence, establishes that 
+said action was based  upon harmful error in the application of the appointing 
+authority’s procedure, an error of law, or upon any factor or conduct on the part of the 
+employee  not reasonably related to  the fitness of the employee to perform in his 
+position, said action shall not be sustained, and the person shall be returned to his 
+position without loss of compensation or other  rights. The commission may also 32 modify any penalty  imposed by the appointing authority.”  
+ 
+     An action is “justified” if it is “done upon adequate reasons sufficiently supported by 
+credible  evidence, when weighed by an unprejudiced mind; guided by common sense and 
+by correct rules of law ;” Commissioners  of Civil Service v. Municipal Ct. of Boston , 359 
+Mass. 211, 214 (1971); Cambridge v. Civil Service Comm’n , 43 Mass.App.Ct. 300, 304 
+(1997); Selectmen of Wakefield v. Judge of First Dist. Ct. , 262 Mass. 477, 482 (1928). 
+The Commission determines justificat ion for discipline by inquiring, “whether the 
+employee has been guilty of substantial misconduct which adversely affects the public 
+interest by impairing the efficiency of public service ;” School Comm. v. Civil Service 
+Comm’n , 43 Mass. App. Ct. 486, 488 (1 997); Murray v. Second Dist. Ct. , 389 Mass. 508, 
+514 (1983).  
+The Appointing Authority’s burden of proof by a preponderance of the evidence is 
+satisfied “if it is made to appear more likely or probable in the sense that actual belief in 
+its truth, derived f rom the evidence, exists in the mind or minds of the tribunal 
+notwithstanding any doubts that may still linger there ;” Tucker v. Pearlstein , 334 Mass. 
+33, 35-36 (1956).  
+Under section 43, the Commission is required “to conduct a de novo hearing for the 
+purpose of finding the facts anew ;” Falmouth v. Civil Service Comm’n , op.cit . and cases 
+cited.  However, “[t]he commission’s task.. .is not to be accomplished on a wholly blank 
+slate. After making its de novo findings of fact, the commission does not act witho ut 
+regard to the previous decision  of the [appointing authority], but rather decides whether 
+‘there was reasonable justification for the action taken by the appointing authority in the 
+circumstances found by the commission to have existed when the appointi ng authority 33 made its decision’,” which may include an adverse inference against a complainant who 
+fails to testify at the hearing before the appointing authority ; Falmouth v. Civil Service 
+Comm’n , 447 Mass. 814, 823 (2006), quoting internally from Waterto wn v. Arria , 16 
+Mass.App.Ct. 331, 334 (1983) and cases cited.         
+The Town ’s Decision  
+The Town ’s initial  action here was to terminate three (3) police officers (Moccio, 
+Grasso and Connor), in part, because all three officers allegedly engag ed in excessi ve 
+force during the altercation with Doe in the cell.  During the hearing  before the 
+Commission , the Mayor , who serves as the Appointing Authority, explained that his 
+decision to terminate  these three officers was based  in part  upon his view of the video 
+evidence. He testified that, in his opinion, the video depict ed Officer Connor and Sgt. 
+Grasso holding Doe down for the express purpose of allowing Officer Moccio to 
+repeatedly strike Doe with his baton.  After two days of hearing  before the Commission , 
+the Mayor reinstated both Connor and Grasso although Grasso was demoted from Sgt. to 
+patrolm an. By reinstating two of the officers, it appears that the Mayor  accept ed the 
+testimony of the Town’s own e xpert witness that Connor and Grass o did not engage in 
+excessive force.   
+The Town ’s current position is that there is just cause for Moccio’s termination 
+because his use of the baton was in violation of the Department’s use of force policies 
+and that Moccio’s report of the incident was untruthful. As for Sgt. Gra sso, the Town  
+contends that he too was untruthful in his report of the incident and that his conduct 
+throughout the incident was incompetent.   
+EXCESSIVE FORCE  34 Town’s Argument Regarding Excessive Force  
+     The Town argues that while Doe’s behavior at Six Flags should be part of the 
+analysis , Doe’s behavior immediately prior to the altercations  should be given much 
+greater weight , citing Policy 1.01, Section B(2) , which states:  “Perceived Circumstances:  
+The level of force used by an officer shall be a resp onse based upon:  a.  Threat 
+perception – the reasonable officer’s perspective of the situation in reference to the 
+severity of any crime, the existence of an immediate safety threat  to the officer or 
+others, and the degree of compliance from the subject.”   [emphasis added ]   
+     The Town argues that Doe’s behavior at the police station at all times prior to the cell 
+block altercation s was not assaultive ; that Doe was app roximately 5’7” and 155 -165 
+pounds , unarmed, and wearing only underwear in a confined spaced with no access to a 
+weapon, and that there four (4) officers assisting who were of a bove average build and 
+height.  Therefore, the Town argues that the relevant factors weighed heavily in favor of 
+the officers using the least amount of force necessa ry to control the situation, which is 
+required by the Town’s policy.   
+

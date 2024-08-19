@@ -1,0 +1,18 @@
+You are an expert in police policy regarding use of force.
+
+The following is a narrative, written in Spanish by a Puerto Rican police
+officer, relating an incident in which the officer used force and was required
+to report the use of force. Please read the following narrative, and based on
+the content, answer the following question. Answer "YES" or "NO" only.
+only.
+
+The question: {question}
+
+----
+
+The narrative: {narrative}
+
+----
+
+Answer: 
+

@@ -1,0 +1,333 @@
+NOTICE: Summary decisions  issued by the Appeals Court pursuant  to its rule 1:28, as
+amended by 73 Mass. App. Ct. 1001 (2009), are primarily  directed  to the parties and,
+therefore,  may not fully address the facts of the case or the panel's decisional
+rationale. Moreover, such decisions  are not circulated  to the entire court and,
+therefore,  represent  only the views of the panel that decided the case. A summary
+decision  pursuant  to rule 1:28 issued after February  25, 2008, may be cited for its
+persuasive  value but, because of the limitations  noted above, not as binding  precedent.
+See Chace v. Curran, 71 Mass. App. Ct. 258, 260 n.4 (2008).
+COMMONWEALTH  OF MASSACHUSETTS
+APPEALS  COURT
+16-P-269
+EDWARD MCCORMACK -_
+== ) = -<
+DEPARTMENT  OF STATE POLICE & another.? . ea) -
+MEMORANDUM  AND ORDER PURSUANT  TO RULE 1:28 = ° ie)
+The plaintiff,  Edward  McCormack,  and the defendant,  the
+Department  of State Police (department),  cross-appeal  from a
+judgment  entered  on the pleadings.  A Superior  Court judge
+affirmed  the decision  of the Civil Service Commission
+(commission)  finding that the department  had established  just
+cause to terminate  McCormack  from his position  as a State
+trooper, but that he was nonetheless  entitled  to forty days of
+back pay (representing  a portion  of the time that he had been
+suspended  without  pay). McCormack  argues that the department
+lacked just cause to terminate  him, and the department
+challenges  the back pay order. We affirm.
+1. Procedural  history. McCormack  graduated  from the State
+Police Academy  and became a State trooper  in 2002. Based on
+1 Civil Service  Commission.
+allegations  that McCormack  had engaged  in prescription  drug
+abuse and "doctor  shopping,"  the department  held a duty status
+hearing  on April 3, 2008, and subsequently  suspended  him without
+pay. On January  7, 2009, McCormack  was indicted  on eighteen
+counts of obtaining  a false prescription  through  fraud and one
+count of uttering  a false prescription.*  During the course of
+the criminal  proceedings,  a Superior  Court judge suppressed
+certain  prescription  drug records  which the State police had
+seized without  a warrant. As a result, the Commonwealth  filed a
+nolle prosequi  on seventeen  counts of the indictment;  after a
+trial before a jury, McCormack  was acquitted  of the remaining
+charges.  3
+Once McCormack's  criminal  case was disposed  of, and as a
+result of four separate  investigations  into his conduct  before
+and after his suspension,  a State police trial board (board)
+held a hearing  at which McCormack  was found to have committed
+fifty-six  violations  of departmental  rules. The board submitted
+its findings  and recommendations  on December  7, 2011, to Colonel
+Timothy  Alben, who approved  the findings  and ordered  that
+McCormack's  employment  be terminated  on November  6, 2012.
+2 The department  held another  duty status hearing  on January  12,
+2009, after which McCormack  remained  suspended.
+2 In an unpublished  decision  pursuant  to our rule 1:28, McCormack
+v. Department  of State Police, 86 Mass. App. Ct. 1113 (2014),
+we upheld a Superior  Court judge's  decision  dismissing
+McCormack's  claim for lost wages pursuant  to G. L. c. 30, § 59,
+during the pendency  of his criminal  case.
+McCormack  appealed  the board's  decision  to the commission
+pursuant  to G. L. c. 31, §§ 41-45, and G. L. c. 22C, § 13; a de
+novo evidentiary  hearing  was conducted  before a single
+commissioner.
+The commissioner  heard testimony  over the course of three
+days from sixteen  witnesses  presented  by the department  and one
+witness  presented  by McCormack.  For the most part, the
+commissioner  credited  the testimony  of all the witnesses,  but
+expressed  reservations  as to the testimony  of McCormack's  former
+girl friend, finding  her testimony  only "relatively  reliable."
+The commissioner  also drew a negative  inference  against
+McCormack  based on his failure  to testify.
+The commissioner  determined  that the department  had shown
+just cause to discipline  McCormack  based upon some, but not all,
+of the fifty-six  rule violations  found by the board. She
+further determined  that the department  had established  just
+cause for the termination,  but that it owed McCormack  forty days
+of back pay.4 The commission  adopted  the commissioner's
+findings. McCormack  then appealed  to the Superior  Court, where
+4 The commissioner  found that the board lacked just cause to
+impose (1) two concurrent  ten-day  unpaid suspensions  based on
+allegations  that McCormack  took his former girl friend out of
+State, in violation  of her probation,  and (2) two concurrent
+thirty-day  unpaid suspensions  based on allegations  that
+"McCormack  fraudulently  obtained  thousands  of controlled
+substances"  which resulted  in his addiction  and in criminal
+proceedings  against  him.
+a judge affirmed  the commission's  decision. This appeal
+followed.
+2. Background.  The department  conducted  four
+investigations  into McCormack's  conduct,  and the commissioner
+found the following  facts.
+a. First investigation.  The first investigation  involved
+McCormack's  conduct  during traffic  stops conducted  on January  7
+and January  28, 2010, when McCormack  was suspended  from his
+position.
+On January  7, McCormack  was pulled over for speeding  by
+State Trooper  John Kiley. McCormack  showed Kiley what appeared
+to be a State police badge and said, "Tim one of you guys."
+Kiley permitted  McCormack  to leave without  citing him, but later
+learned  that McCormack  was suspended  and that the badge may have
+been a replica.
+On January 28, McCormack  was stopped three times during the
+early morning  hours. Yarmouth  police Officer  Scott Lundegren
+conducted  the first stop for a traffic  violation.  McCormack
+showed Officer  Lundegren  what appeared  to be a State police
+badge. He explained  that he worked from "H-1" in Boston, that
+he was going to "help someone  out," and was "just trying to save
+a life," suggesting  that he was responding  to an emergency.
+McCormack  was let go.
+Shortly  thereafter,  McCormack  was stopped  by State Trooper
+Thomas Fitzpatrick,  who was investigating  the theft of a badge
+from a retired  State trooper (Fitzpatrick  had been contacted  by
+Officer  Lundegren  after the prior stop); Fitzpatrick  suspected
+that McCormack  might possess  the badge. McCormack  showed
+Fitzpatrick  what appeared  to be a State police badge, and said
+he did not have his police identification  with him.®
+Fitzpatrick  was then joined by Lundegren.  McCormack  denied
+being suspended,  but told the two officers  that he was on
+medical leave for a back injury.
+The third traffic  stop of the morning  was conducted  by Mary
+Gibney, another  Yarmouth  police officer. She stopped  McCormack
+for failing  to yield at a stop sign.® McCormack  told Officer
+Gibney that he was a State trooper,  but omitted  saying that he
+had been suspended.’  Gibney was soon joined by Fitzpatrick  and
+Lundegren.  The three of them concluded  that McCormack's  badge
+was a replica,  and Fitzpatrick  seized it.
+5 During the second stop, McCormack  called someone  who identified
+himself  as McCormack's  brother,  who was also a State trooper.
+This person told Fitzpatrick  that McCormack  was suspended.
+6 Officer  Gibney testified  that she was unaware  that McCormack
+was the subject  of an investigation  into the stolen badge until
+after she had stopped  him.
+7 Officer  Gibney issued McCormack  citations  for failure  to yield
+at a stop sign and failure  to change his address  with the
+Registry  of Motor Vehicles. He appealed  the citations  and was
+found not responsible.
+Based upon the testimony  of these three police officers,
+which the commissioner  credited,  the commissioner  found that the
+department  had demonstrated  that McCormack  "acted in a manner as
+to bring the State [p]lolice  in disrepute  and received  a
+complaint  regarding  his conduct,"  failed to conform  to State and
+Federal laws, and made untrue statements.  The commissioner
+concluded  that the department  had just cause to terminate
+McCormack.
+b. Second investigation.  The second investigation
+involved  McCormack's  relationship  with his former girl friend
+(identified  as "Ms. A." in the commissioner's  decision)  and his
+conduct  with various  officials  at the Barnstable  District  Court.
+Ms. A. used heroin; during her relationship  with McCormack  she
+had been arrested  and charged  with six counts of breaking  and
+entering  into a property  with the intent to commit a felony.?®
+She pleaded  guilty to the charges and was placed on probation.
+While Ms. A. was on probation  and McCormack  was suspended,
+McCormack  met with her probation  officer,’  the probation
+officer's  supervisor,  and two community  corrections  coordinators
+who were supervising  Ms. A. McCormack  identified  himself  as a
+State trooper  in order to gain information  and obtain favorable
+8 State police rules prohibit  associating  with persons  involved
+in criminal  activity.
+9 McCormack  also shouted  at the probation  officer, "You got your
+wish," after she requested  that he not attend his girl friend's
+probation  meetings.
+influence  over Ms. A.'s probation.  McCormack  also allowed  Ms.
+A. to be photographed  wearing  his State police badge.*® At some
+point Ms. A. broke up with McCormack,  after which he threatened
+her with criminal  prosecution  and the loss of custody  of her
+child.?}
+The commissioner  found that the department  had just cause
+for disciplining  McCormack  based on violations  of several
+department  rules, including  one that provides  that "[s]uspended
+members shall be deprived  of all .. . State [p]olice  powers and
+privileges  and must not represent  themselves  as members  of the
+State [p]lolice."  The commissioner  found that this was
+just cause for the department  to terminate  McCormack.
+@. Third investigation.  The third investigation  involved
+McCormack's  conduct  toward another  motorist  during a motor
+vehicle  accident  that took place while McCormack  was suspended.
+The commissioner  heard and credited  testimony  from Barnstable
+police Officers  Jennifer  Ellis and Justin Waskiewicz,  who
+responded  to the accident,  as well as State police Detective
+Dana Pagley, who spoke with the other driver and with
+McCormack's  insurance  company. McCormack  had identified  himself
+10 From the record it appears  that this incident  occurred  before
+McCormack  was suspended,  and thus that Ms. A. was wearing  his
+real badge, not a replica.
+11 Because  there was contradictory  evidence,  the commissioner
+determined  that the department  lacked just cause to discipline
+McCormack  for allegedly  taking Ms. A to New Hampshire,  in
+violation  of the terms of her probation.
+as a State trooper  to both the other motorist  and the responding
+officers. He attempted  to intimidate  the other driver by using
+his position  as a State trooper,  withheld  details  of the
+accident  in order to hinder or delay the investigation,  and made
+untrue statements.  The commissioner  found that the department
+had just cause to discipline  McCormack  by imposing  suspension
+without  pay.
+ad. Fourth investigation.  The fourth investigation
+involved  McCormack's  use of prescription  drugs and
+misrepresentations  about his medical condition.  The department
+alleged  that McCormack  provided  false information  when he was
+applying  to the State police in 2001 and 2002 regarding  the
+seriousness  of certain  back injuries  that he had sustained  in
+1998 and 1999. The department  also alleged  that McCormack
+unlawfully  used and possessed  controlled  substances  between  2007
+and 2011. Ms. A. testified  that she and McCormack  took
+oxycodone  together,  that she sold oxycontin  to McCormack,  that
+she gave McCormack  suboxone  that had been prescribed  to her, and
+that McCormack  gave her money to purchase  heroin and wanted her
+"to shoot him up," but that she did not do so because  she
+believed  that what she had purchased  was "no good."
+McCormack  also obtained  hydrocodone  from his dentist
+without revealing  that he was already  on prescription  pain
+medications.  The dentist  testified  that, had he known that
+McCormack  was already  on prescription  pain medication,  he would
+not have prescribed  additional  pain medication.  However,
+because  the majority  of McCormack's  pharmacy  records  were
+suppressed  in the criminal  case, the commissioner  did not
+consider  this information,!4  and found that the department  had
+just cause to terminate  McCormack  only on the allegation  of his
+misstating  his medical  condition.
+3. Substantial  evidence. McCormack  contends  that the
+commission's  findings  were not supported  by substantial
+evidence,  as required  by G. L. c. 30A, § 14(7)(e). We disagree.
+"A court reviewing  a decision  made by the commission  is 'bound
+to accept the findings  of fact of the commission's  hearing
+officer, if supported  by substantial  evidence.'"  Beverly  v.
+Civil Serv. Commn., 78 Mass. App. Ct. 182, 188 (2010), quoting
+from Leominster  v. Stratton,  58 Mass. App. Ct. 726, 728 (2003).
+"Substantial  evidence"  is defined  in G. L. c. 30A, § 1(6), as
+"such evidence  as a reasonable  mind might accept as adequate  to
+support a conclusion."  "In order to be supported  by substantial
+evidence,  an agency conclusion  need not be based upon the 'clear
+weight' of the evidence  or even a preponderance  of the evidence,
+but rather only upon ‘reasonable  evidence,’  .. . after taking
+12 McCormack  contends  that he lacked notice that he was being
+‘charged  with being untruthful  about his medical  condition  and
+had insufficient  opportunity  to prepare. Because  he neither
+made such a claim in his complaint  nor argued it to the Superior
+Court judge, we decline  to consider  this argument.
+into consideration  opposing  evidence  in the record." Lisbon v.
+Contributory  Retirement  Appeal Bd., 41 Mass. App. Ct. 246, 257
+(1996) (citations  omitted). "Under the substantial  evidence
+test, a reviewing  court is not empowered  to make a de novo
+determination  of the facts, to make different  credibility
+choices, or to draw different  inferences  from the facts found by
+the [commission]."  Medi-Cab  of Mass. Bay, Inc. v. Rate Setting
+Commn., 401 Mass. 357, 369 (1987).
+The commissioner  issued a comprehensive  and detailed
+decision,  with 126 factual findings  and a lengthy  legal
+analysis. "[I]t is for the agency, not the courts, to weigh the
+credibility  of witnesses  and resolve factual disputes."  School
+Comm. of Wellesley  v. Labor Relations  Commn., 376 Mass. 112, 120
+(1978). Contrary  to McCormack's  assertions,  even though he was
+acquitted  of criminal  charges  and found not responsible  on the
+traffic  violations,  the department  could still discipline  him
+for conduct  related  to those matters. "Police  officers  must
+comport  themselves  in accordance  with the laws that they are
+sworn to enforce  and behave in a manner that brings honor and
+respect for rather than public distrust  of law enforcement
+personnel.  They are required  to do more than refrain  from
+indictable  conduct." Police Commr. of Boston v. Civil Service
+Commn., 22 Mass. App. Ct. 364, 371 (1986). McCormack's  more
+specific  challenges  to the evidence  are also unpersuasive.
+10
+a. Harassment.  McCormack  argues that because  the evidence
+demonstrates  that he was "harassed  and targeted"  by law
+enforcement  officials  who had concocted  a "plan to seize
+McCormack's  badge," the department  has failed to show that he
+was legitimately  stopped  for traffic  violations  on January  28,
+2010. He challenges  the finding  that he violated  traffic laws
+and the rules pertaining  to a trooper's  truthfulness.  This
+assertion  lacks merit.
+"The reviewing  court may not make new determinations  of
+facts or make different  credibility  choices." Leominster  v.
+Stratton,  supra at 733, citing Pyramid  Co. v. Architectural
+Barriers  Bd., 403 Mass. 126, 130 (1988). Even assuming  that
+there are "two fairly conflicting  views" of the evidence,  the
+commission  is entitled  to choose how to interpret  the evidence
+before it. Labor Relations  Commn. v. University  Hosp., Inc.,
+359 Mass. 516, 521 (1971). Two local police officers  and one
+State trooper  testified  as to McCormack's  traffic  violations  and
+untruths,  and the commissioner  credited  their testimony.
+b. Hearsay  evidence. McCormack  asserts  that several
+findings  pertaining  to the incident  involving  a motor vehicle
+accident  are not supported  by substantial  evidence  because the
+department  failed to present  the testimony  of the other
+motorist. This argument  is also unavailing.  "In administrative
+proceedings,  hearsay  evidence  can be received  and may constitute
+11
+substantial  evidence  if it contains  sufficient  indicia  of
+reliability  and probative  value." School Comm. of Brockton  v.
+Massachusetts  Commn. Against  Discrimination,  423 Mass. 7, 15
+(1996). The department  presented  the other motorist's
+statements  through  reliable  hearsay. The police officer  who
+spoke to the motorist  immediately  after the accident  testified
+to the motorist's  statement,  and this testimony  was consistent
+with other evidence.!3  We will not overturn  the commission's
+findings  where, as here, the its reliance  on the evidence  was
+not unreasonable.“  Ibid.
+4. Back pay. The department  asserts  that the commission
+exceeded  its authority  when it ordered  the department  to
+compensate  McCormack  for forty days of back pay because  the
+commission  may only authorize  back pay if an individual  is
+returned  to his or her position.  In support  of this proposition,
+the department  cites to G. L. c. 31, § 43, which states that
+"{i]£ the commission  by a preponderance  of the evidence
+determines  that there was just cause for an action taken against
+13 MeCormack  also contends  that the department's  failure to
+subpoena  the other motorist  violated  departmental  rules which
+provide  him the right to cross-examine  adverse  witnesses.  See
+Fisher v. Lint, 69 Mass. App. Ct. 360, 368 (2007). McCormack's
+bare assertion  is unaccompanied  by citation  to legal authority,
+and we have found none that suggest  the department  was compelled
+to subpoena  the other driver.
+4 To the extent that we have not addressed  the defendant's  other
+contentions,  they "have not been overlooked.  We find nothing  in
+them that requires  discussion."  Commonwealth  v. Domanski,  332
+Mass. 66, 78 (1954).
+12
+[an aggrieved]  person it shall affirm the action of the
+appointing  authority.  .. ." However,  the statute  continues  by
+stating  that the commission  "may also modify any penalty  imposed
+by the appointing  authority."  It is true that "[t]he commission
+is not free to modify the penalty  imposed  by the [department]  on
+the basis of essentially  similar  fact finding  without  an
+adequate  explanation."  Falmouth  v. Civil Serv. Commn., 447
+Mass. 814, 824 (2006) (citation  omitted). However,  here the
+commission  made dissimilar  findings  and did not find just cause
+for several  of the fifty-six  violations  found by the department.
+Accordingly,  we discern  no error.
+Judgment  affirmed.
+By the Court (Vuono, Meade &ia  Jd. ys
+a We Pan
+Entered: August 14, 2017.
+15 The panelists  are listed in order of seniority.
+13
