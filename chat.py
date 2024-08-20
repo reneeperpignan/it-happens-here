@@ -1,7 +1,6 @@
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
-openai_api_key = "sk-proj-0g5nceIwfhEk81RL5UKcT3BlbkFJBwxVH4aVjhdmsol2bNQf"
 
 model    = ChatOpenAI(openai_api_key=openai_api_key, temperature=.5) # temperature = how random
 
