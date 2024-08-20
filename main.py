@@ -2,7 +2,6 @@ from langchain import OpenAI
 from PyPDF2 import PdfReader
 
 
-openai_api_key = "sk-proj-0g5nceIwfhEk81RL5UKcT3BlbkFJBwxVH4aVjhdmsol2bNQf"
 
 llm = OpenAI(temperature=0,openai_api_key=openai_api_key)
 
